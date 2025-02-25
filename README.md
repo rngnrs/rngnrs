@@ -1,16 +1,19 @@
-## Hi there 👋
+Welcome, stranger.
 
-<!--
-**rngnrs/rngnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No graphs, no badges, no fluff.  
+I’m an *engineer*, not a *programmer*. No tech job, no star-chasing.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code what I must because I can.  
+Crafting an imageboard engine — privately for now, in my own timeline.  
+Not for you, not with you. It’ll surface somewhere, somewhen, but (not) here.
+
+## Stance
+
+Value’s in the deeds, not the spotlight.  
+I’m not here to impress you, baka.
+
+## Contact
+
+Ping me at `sup at tumba d0t ch` if you dare. Don’t wait for a reply; there is no cake.
